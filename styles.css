@@ -2,8 +2,8 @@
   width: 300px;
   margin: 20px;
   padding: 50px color lightblue;
-  border: 15px solid blue;
+  border: 15px solid rgb(0, 0, 255);
   justify-content: center;
-	background: lightblue
+	background-color: rgb(173, 216, 230);
 }
 /* Your CSS Code here. */
