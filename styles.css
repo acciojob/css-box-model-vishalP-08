@@ -1,2 +1,9 @@
-
+.first_outer_box{
+  width: 300px;
+  margin: 20px;
+  padding: 50px color lightblue;
+  border: 15px solid blue;
+  justify-content: center;
+	background: lightblue
+}
 /* Your CSS Code here. */
